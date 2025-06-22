@@ -11,7 +11,6 @@ Each entry includes a brief description and a direct link to its repository for 
 | Project | Description | Topics | Date |
 |--------|-------------|--------|------|
 | [June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam) | Developed an interactive Plotly Dash app to explore Spotify music trends using audio features and metadata. Includes real-time filters, K-Means clustering, similarity search, and embedded song previews. | `Python`, `Plotly Dash`, `Data Visualization`, `Clustering` | Jun 2025 |
-
 | [Wikipedia Bias Detection](https://github.com/jeelfaldu7/may_code_jam_pudding) |Built a machine learning pipeline to detect bias in Wikipedia articles using linguistic and sentiment features. Developed sentence-level bias classifiers and a scoring function to assess article neutrality. Explored bias patterns across topics and media sources. | `Machine Learning`, `Python`, `NLP`, `Bias Detection` | May 2025 |
 
 | [YouTube Sentiment Analysis](https://github.com/betanight/youtube_sentiment_analysis) | Developed a machine learning model using MiniLM embeddings and logistic regression to predict sentiment of YouTube comments. Analyzed sentiment vs. like/dislike ratios revealing weak correlation and richer audience insights. | `Machine Learning`, `Python`, `NLP`, `Sentiment Analysis` | Apr 2025 |
