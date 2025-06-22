@@ -8,13 +8,24 @@ Each entry includes a brief description and a direct link to its repository for 
 
 ## 📁 Project Index
 
+### Code Jam Pudding Projects
+
 | Project | Description | Topics | Date |
-|--------|-------------|--------|------|
+|---------|-------------|--------|------|
+
 | [June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam) | Developed an interactive Plotly Dash app to explore Spotify music trends using audio features and metadata. Includes real-time filters, K-Means clustering, similarity search, and embedded song previews. | `Python`, `Plotly Dash`, `Data Visualization`, `Clustering` | Jun 2025 |
 | [Wikipedia Bias Detection](https://github.com/jeelfaldu7/may_code_jam_pudding) |Built a machine learning pipeline to detect bias in Wikipedia articles using linguistic and sentiment features. Developed sentence-level bias classifiers and a scoring function to assess article neutrality. Explored bias patterns across topics and media sources. | `Machine Learning`, `Python`, `NLP`, `Bias Detection` | May 2025 |
 | [YouTube Sentiment Analysis](https://github.com/betanight/youtube_sentiment_analysis) | Developed a machine learning model using MiniLM embeddings and logistic regression to predict sentiment of YouTube comments. Analyzed sentiment vs. like/dislike ratios revealing weak correlation and richer audience insights. | `Machine Learning`, `Python`, `NLP`, `Sentiment Analysis` | Apr 2025 |
 | [March Madness Winner Prediction](https://github.com/Phonz-dot/march_madness_prediction) | Built a machine learning model using historical NCAA matchup data to predict tournament winners. Included data cleaning, EDA, CatBoost training, and model evaluation with balanced classes. | `Machine Learning`, `Python`, `CatBoost`, `Data Analysis` | March 2025 |
 | [Web Scraping of IMDB Website and Analysis of the Movies and Actors Datasets](https://github.com/JohnFDwy/imdb_web_scraping) | Scraped and analyzed data for 100 movies and 100 actors to explore genre profitability, ROI trends, and award predictors. Found comedy as most profitable and nominations key to award wins. | `Web Scraping`, `Data Analysis`, `Python`, `BeautifulSoup` | Feb 2025 |
+
+---
+
+## Bootcamp / TripleTen Course Projects
+
+| Project | Description | Topics | Date |
+|---------|-------------|--------|------|
+
 | [Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect) | Built predictive models to identify customers at risk of churn using demographic and usage data. Achieved up to 89% accuracy and 0.915 AUC-ROC with LightGBM, helping improve retention strategies. | `Machine Learning`, `LightGBM`, `XGBoost`, `Customer Analytics` | May 2025|
 | [Good Seed Age Verification Model](https://github.com/jeelfaldu7/good_seed_age_verification_model) | Developed a CNN-based deep learning model to predict customer age from facial images, aiding legal compliance for alcohol sales. Achieved validation MAE of 6.64 years with promising accuracy. | `Deep Learning`, `Computer Vision`, `CNN`, `Age Prediction` | Apr 2025 |
 | [Film Junky Union - IMDB Movie Review Sentiment Classifier](https://github.com/jeelfaldu7/model_classify_imdb_reviews) | Built a sentiment analysis model to classify IMDB movie reviews. Logistic Regression with spaCy preprocessing was selected for balanced, consistent predictions with an F1 score of 0.88. | `NLP`, `Sentiment Analysis`, `Logistic Regression`, `TF-IDF` | Apr 2025 |
