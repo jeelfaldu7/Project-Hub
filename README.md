@@ -12,7 +12,7 @@ Each entry includes a brief description and a direct link to its repository for 
 
 | Project | Description | Topics | Date |
 |---------|-------------|--------|------|
-| [TripleTen Externship Project] | Participating in a data science externship with TripleTen, applying machine learning and analytics to an education-focused problem. Repository will be updated with non-confidential deliverables as the project progresses.| `Data Science`, `Applied Machine Learning`, `Educational Analytics`| Aug 2025 - Present |
+| TripleTen Externship Project | Participating in a data science externship with TripleTen, applying machine learning and analytics to an education-focused problem. Repository will be updated with non-confidential deliverables as the project progresses.| `Data Science`, `Applied Machine Learning`, `Educational Analytics`| Aug 2025 - Present |
 
 ---
 
